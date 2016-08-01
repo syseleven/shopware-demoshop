@@ -1,5 +1,5 @@
 <?php return array (
-  'db' =>
+  'db' => 
   array (
     'host' => '<|VAR::DATABASEADDRESS|>',
     'port' => '3306',
@@ -8,4 +8,3 @@
     'dbname' => 'shopware',
   ),
 );
-
